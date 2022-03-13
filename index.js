@@ -11,7 +11,7 @@ function createWindow () {
   })
 
   // and load thesignin.html of the app.
-  win.loadFile('cal.html')
+  win.loadFile('index.html')
 }
 
 app.whenReady().then(createWindow)
